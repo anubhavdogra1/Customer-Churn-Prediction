@@ -67,3 +67,9 @@ Customer churn—the percentage of customers that stop using a service—is a ma
   - Tenure
   - Monthly Charges
   - Internet Service
+
+## Contact
+
+## Author: Anubhav Dogra
+## LinkedIn: linkedin.com/in/anubhav-dogra
+## Email: anubhavdogra7@gmail.com
