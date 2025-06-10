@@ -75,4 +75,4 @@ Customer churn—the percentage of customers that stop using a service—is a ma
 ## Author: Anubhav Dogra
 ## LinkedIn: [linkedin.com/in/anubhav-dogra ](https://www.linkedin.com/in/anubhav-dogra/)
 ## Email: anubhavdogra7@gmail.com
-## Instagram: https://www.instagram.com/anubhav.dogra/
+## Instagram: https://www.instagram.com/anubhavdogra1/
